@@ -1,0 +1,96 @@
+
+/* CSS Document */
+ /* body {
+        padding-top: 60px;
+        padding-bottom: 40px;*/
+		
+      
+.bild {
+	 height: 300px;
+	 width: 200px;
+		 /* background-color: red;*/
+		  }
+footer {
+	font-style: italic;
+	text-align:center;
+	margin-bottom: 20px;
+			  }
+.btn  {
+	 border: 1px solid black;
+		 }
+
+		 
+.jumbotron {
+	margin-top: 10px;
+	} 
+	 
+.jumbotron img {
+		float: right;
+		overflow:visible;
+		
+		
+}
+
+  
+.jumbotron  {
+	
+	background-color:#D1C5D3;
+	}		
+	
+h1 {
+	text-shadow: 3px 3px 3px #3e3e3e;
+	
+	}
+	
+h2 {
+	text-shadow: 2px 2px 2px #3e3e3e;
+	margin-top: 40px;
+	
+	}
+	
+h3 {
+	text-shadow: 1px 1px 1px #3e3e3e;
+	
+	}	
+.content {
+	
+	font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 16px;
+	margin-top: 30px;
+	margin-buttom: 30px;
+	}
+.hobbies {
+		float: right;
+	}
+	
+.img {
+	float:right;
+	margin-right: 200px;
+	}
+	
+
+
+
+
+h4 {
+	font-style: italic;
+	}
+	
+
+#footer {
+	background-color:#D1C5D3;
+	height:50px;
+	
+	
+	}
+	
+
+#footer p {
+	text-align:center;
+	font-style: italic;
+	padding-top: 10px;
+	}
+#footer  a {
+	color: #7F0C33;
+	}
+ 
